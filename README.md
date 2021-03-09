@@ -19,7 +19,7 @@ Para ver o sistema rodando existem algumas formas, lembrando que eu estou explic
 
 Primeiramente você verifica se nenhum dos pacotes quebraram, depois você se dirige ao menu do NetBeans, e procura a aba "Run" ou pode ser que o seu netbeans esteja em português, esta aba estará como "Rodar" ou mesmo "executar", ao clicar nesta aba, você vai clicar em "Run Project" ou em português "Executar Projeto".
 
-<center><img src="Imagens/menunetbeans.png"></center>
+<p aling="center"><img src="Imagens/menunetbeans.png"></center></p>
 
 Ao clicar em run project, uma tela de boas vindas vai se abrir, mais a baixo terá um botão de "OK", clicando nele, você encontrará, uma tela de cadastro, onde você poderá cadastar 3 tipos de contas:
 
