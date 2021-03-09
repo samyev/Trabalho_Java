@@ -19,9 +19,11 @@ Para ver o sistema rodando existem algumas formas, lembrando que eu estou explic
 
 Primeiramente você verifica se nenhum dos pacotes quebraram, depois você se dirige ao menu do NetBeans, e procura a aba "Run" ou pode ser que o seu netbeans esteja em português, esta aba estará como "Rodar" ou mesmo "executar", ao clicar nesta aba, você vai clicar em "Run Project" ou em português "Executar Projeto".
 
-<img src="Imagens/menunetbeans.png" width="50%" height="50%">
+<img src="Imagens/menunetbeans.png">
 
 Ao clicar em run project, uma tela de boas vindas vai se abrir, mais a baixo terá um botão de "OK", clicando nele, você encontrará, uma tela de cadastro, onde você poderá cadastar 3 tipos de contas:
+
+<img src="Imagens/bemvindo.png">
 
 - Conta Comum, onde você terá que cadastrar o nome do titular da conta, o número da conta e o saldo inicial.
 
@@ -29,9 +31,13 @@ Ao clicar em run project, uma tela de boas vindas vai se abrir, mais a baixo ter
 
 - Conta Especial, está é uma conta que pode ser tratada como uma conta de crédito, na qual você terá que cadastrar o nome do titular, o número da conta, o slado inicial, o limite da conta, e a multa que irá ser tarifada pelo uso dela.
 
+<img src="Imagens/cadastro.png">
+
 Ao clicar no botão "cadastrar", se você tiver preenchido todos os campos você conseguirá acessar o menu de operações, caso não tenha preenchido, aparecerá uma mensagem de falha, pedindo para que vocẽ preencha esses campos, com uma única exeção, do campo de "reajuste" da conta poupança, pois o sistema está programado para preencher esse reajuste aumáticamente, caso o cliente não deseje preencher.
 
 Acessando o menu, você terá acesso a 5 botões operação e um botão de saída, caso deseje sair do sistema. Você encontrará os botões de saque, depósito, trasferência, reajuste, ver saldo, caso deseje verificar o seu saldo, e o botão sair, explicado a cima. 
+
+<img src="Imagens/menu.png">
 
 
 
