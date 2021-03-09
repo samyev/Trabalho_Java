@@ -11,7 +11,9 @@ Ao realizar o download do pacote, ele vira em uma pasta zipada, então você ter
 Abra o projeto na IDE NetBeans, para isso, clique com o botão direito do mouse em cima da pasta, então vai aparecer uma telinha com várias opções
 clique em "Abrir como", então você escolhe o programa NetBeans, se você tiver, se não pode abir em outra IDE de sua preferência, então ele abrirá:
 
-<center><img src="imagens/primeiratela.png" width=300 height=200></center>
+<body>
+<center><img src="imagens/primeiratela.png" width=300 height=300></center>
+</body>
 
 
 
