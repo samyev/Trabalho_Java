@@ -37,9 +37,11 @@ Ao clicar no botão "cadastrar", se você tiver preenchido todos os campos você
 
 <img src="Imagens/falha.png">
 
-Acessando o menu, você terá acesso a 5 botões operação e um botão de saída, caso deseje sair do sistema. Você encontrará os botões de saque, depósito, trasferência, reajuste, ver saldo, caso deseje verificar o seu saldo, e o botão sair, explicado a cima. 
+Acessando o menu, você verá 5 botões operação e um botão de saída, caso deseje sair do sistema. Você encontrará os botões de saque, depósito, trasferência, reajuste, ver saldo, caso deseje verificar o seu saldo, e o botão sair, explicado a cima. 
 
 <img src="Imagens/menu.png">
+
+Em seguida, basta testar cada operação clicando no botão da ação que você deseja realizar, ao clicar no botão desejado você será destinado a uma nova tela, na qual dependendo da ação escolhida, você terá que preencher alguns dados a serem pedidos, e realizará o seu desejo, ao final, basta selecionar o botão "sair" designado no menu, e o sistema fechará.  
 
 
 
