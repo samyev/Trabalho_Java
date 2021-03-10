@@ -9,7 +9,7 @@ Este sistema foi escrito inteiramente na linguagem Java, utilizando a IDE NetBea
 Ao realizar o download do pacote, ele vira em uma pasta zipada, então você terá que extrair o pacote em sua máquina, escolha o diretório (pasta) de sua preferência. Ao extrair a pasta, ela virá com o nome "TrabalhoJava", então siga as instruções a baixo:
 
 Abra o projeto na IDE NetBeans, para isso, clique com o botão direito do mouse em cima da pasta, então vai aparecer uma telinha com várias opções
-clique em "Abrir como", então você escolhe o programa NetBeans, se você tiver, se não, pode abir em outra IDE de sua preferência, então o projeto "TrabalhoJava" abrirá.
+clique em "Abrir como", então você escolhe o programa NetBeans, se você tiver em sua máquina, se não, pode abir em outra IDE de sua preferência, então o projeto "TrabalhoJava" abrirá.
 
 Ao abrir o projeto, dentro da pasta "Source Packages" você encontra o package "Trabalho1", e nele vão ter 10 arquivos .java, 6 arquivos formam o frontend do sistema de caixa bancário, feitos com JFrame, e 4 formam o backend.
 
