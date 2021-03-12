@@ -43,7 +43,7 @@ Acessando o menu, você verá 5 botões de operação e um botão de saída, cas
 
 Em seguida, basta testar cada operação clicando no botão da ação que você deseja realizar, ao clicar no botão desejado você será destinado a uma nova tela, na qual dependendo da ação escolhida, você terá que preencher alguns dados a serem pedidos, e realizará o seu desejo, ao final, basta selecionar o botão "sair" designado no menu, e o sistema fechará.    
 
-
+Nota: Este sistema, foi um trabalho de faculdade.
 
 
 
